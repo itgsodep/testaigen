@@ -1,1 +1,3 @@
 puts "haj"
+
+puts "kulen"
